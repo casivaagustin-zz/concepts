@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.1"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.topografix.com/GPX/1/1 gpx.xsd">
+<metadata>
+<time>2015-03-20T00:00:00Z</time>
+<bounds minlat="-33.459750000" minlon="-71.562672000" maxlat="-30.606753000" maxlon="-60.506690000"/>
+</metadata>
+<rte>
+  <rtept lat="-27.451389" lon="-58.986667">
+    <name>RPT001</name>
+  </rtept>
+  <rtept lat="-27.452389" lon="-58.986667">
+    <name>RPT002</name>
+  </rtept>
+  <rtept lat="-27.453389" lon="-58.986667">
+    <name>RPT003</name>
+  </rtept>
+</rte>
+</gpx>
